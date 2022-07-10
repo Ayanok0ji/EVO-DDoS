@@ -23,7 +23,7 @@ os.system("figlet EVO-DDoS")
 print
 print "Coded By : Evo Developers Team"
 print "Author   : Evo Developers Team"
-print "Github   : github.com/Ayanok0ji"
+print "Github   : github.com/"
 print "Fb Page  : facebook.com/"
 print "FB Group : facebook.com/"
 print "Telegram : t.me/"
