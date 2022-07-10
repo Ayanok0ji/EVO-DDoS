@@ -21,14 +21,20 @@ bytes = random._urandom(1490)
 os.system("clear")
 os.system("figlet EVO-DDoS")
 print
+print "Coded By : Evo Developers Team"
 print "Author   : Evo Developers Team"
+print "Github   : github.com/Ayanok0ji"
+print "Fb Page  : facebook.com/"
+print "FB Group : facebook.com/"
+print "Telegram : t.me/"
+print "Join Evo Developers Group"
 print "Note- This Tool An Illegal Tool & It's Only For Educational Purpose.. Use It At Your Own Risk,We'll Be Not Responsible For Kind Of Problems"
 print
 ip = raw_input("IP Target : ")
 port = input("Port       : ")
 os.system("clear")
 print("\033[93m")
-os.system("figlet DdoS Attack")
+os.system("figlet DDoS Attack")
 print("Team : Evo Developers Team")
 print ("\033[92m")
 print "[                    ] 0% "
