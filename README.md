@@ -1,3 +1,7 @@
+NOTE: CREDITS TO T34m V18rs
+
+
+
 Use This Commands in Termux
 
     $ apt update && apt upgrade
@@ -5,7 +9,7 @@ Use This Commands in Termux
     $ pkg install python2
     $ pkg install git
     $ pkg install figlet
-    $ git clone https://www.github.com/T34mV18rs/V-DdoS.git
+    $ git clone https://github.com/Ayanok0ji/EVO-DDoS.git
     $ cd EVO-DDoS
     $ chmod +x EVO-DDoS.py
     $ python2 EVO-DDoS.py
